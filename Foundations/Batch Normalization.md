@@ -20,7 +20,7 @@ In [Batch Normalization paper](https://arxiv.org/pdf/1502.03167.pdf), they appli
 
 ### Train
 
-![Batch normalization in training time](/media/wll/F2A46F30A46EF68F/Computer Science/机器学习/Paper and Fundamental Summary/Foundations/BN_train.png)  
+![Batch normalization in training time](./BN_train.png)  
 
 Note:
 
@@ -31,7 +31,7 @@ Note:
 
 ### Test
 
-![Batch Normalization in test time](/media/wll/F2A46F30A46EF68F/Computer Science/机器学习/Paper and Fundamental Summary/Foundations/BN_test.png)
+![Batch Normalization in test time](./BN_test.png)
 
 Note:
 
