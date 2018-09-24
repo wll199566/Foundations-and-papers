@@ -4,6 +4,7 @@
 
 1. we need to use it to see whether the trained model is overfitting or underfittng to the unseen data.
 2. we need to use it to tune our hyperparameters of the model, making it more accurate.
+3. when the total training set is small, we use cross validation to make the validation result less noisy.
 
 ## What is cross validation?
 
